@@ -1,2 +1,3 @@
-var name="Rakesh";
-document.write("Welcome"+name+"!");
+var firstName = "Rakesh";
+var secondName = "Kumar";
+document.write("Welcome" + firstName + secondName + "!");
