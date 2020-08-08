@@ -8,3 +8,4 @@ var date =new Date(),
 //print date in format day/month/year
 month++;
 console.log(day + "/"+ month+ "/" +year);
+console.log(`${day}/${month}/${year}`)
