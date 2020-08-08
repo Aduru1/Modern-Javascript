@@ -9,6 +9,7 @@ var greeting = "Hello there";
 
 
 var punctuation = "!";
+console.log( greeting + name + punctuation);
 
 function test(){
     console.log(greeting + name + punctuation);
